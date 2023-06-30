@@ -1,0 +1,206 @@
+/* Exercise 1: */
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+}
+
+.one {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  
+}
+
+.two {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+} 
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}  
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+} 
+/* —————————————Exercise 2————————— */
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+}
+
+.one {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+}
+
+
+.two {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+/* —————————Exercise 3—————————————— */
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+}
+
+.one {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+}
+
+
+.two {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: absolute;
+  top: 200px;
+  right: 307px;
+}
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: relative;
+  top: 100px;
+}
+
+
+/* ———————Exercise 4————————— */
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+}
+
+.one {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  position: relative;
+}
+
+
+.two {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+  position: relative;
+  top: 100px;
+  right: -100px; 
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: relative;
+  top: -100px;
+  right: 100px;
+}
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: relative;
+  top: 100px;
+  right: -100px;
+}
+
+
+/* ——————————Exercise 5—————— */
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+}
+
+.one {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  position: relative;
+}
+
+
+.two {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+  position: relative;
+  top: 500px;
+  left: 850px; 
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: relative;
+  bottom: 200px;
+}
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: relative;
+  bottom: 300px;
+  right: 850px;
+}
+
+
+
